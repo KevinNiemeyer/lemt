@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["console","log"],"mappings":"AAAA,CAAC,YAAY;AACXA,EAAAA,OAAO,CAACC,GAAR,CAAY,OAAZ;AACD,CAFD","file":"app.c328ef1a.js","sourceRoot":"..\\src","sourcesContent":["(function () {\r\n  console.log(\"hello\");\r\n})();\r\n"]}
