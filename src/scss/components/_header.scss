@@ -1,0 +1,14 @@
+header {
+  .hero {
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+    background-image: url("/assets/images/header.png");
+    background-repeat: no-repeat;
+    background-size: 100% 20vh;
+  }
+}
+nav {
+  width: 100%;
+  position: sticky;
+}
